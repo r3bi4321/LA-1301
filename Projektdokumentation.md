@@ -36,7 +36,8 @@ Evtl. soll auch ein Kalender ersichtlich sein welcher die Deadline aller Aufgabe
 | 11   | Kann            | Qualität  | Als User möchte ich, dass die Aufgaben in einem Kalender angezeigt werden, um zu wissen, bis wann die Aufgaben erledigt sein müssen.| 
 | 12   | Kann            | QUalität  | Als User möchte ich, auf meine Logindaten zugreifen können, um evtl. Änderungen vorzunehmen.|
 | 13   | Kann            | Qualität  | Als User möchte ich, eine Dauer der Aufgabe zuordnen können.|
-| 14   | Kann            | Qualität  | Als User möchte ich eingeben können, wenn sich die Aufgabe immer wieder widerholt.| 
+| 14   | Kann            | Qualität  | Als User möchte ich eingeben können, wenn sich die Aufgabe immer wieder widerholt.|
+| 15   | Muss            | Funktional| Als User möchte ich ein neues Login erstellen können.| 
 
 
 ### 1.3 Testfälle
