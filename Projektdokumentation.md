@@ -14,9 +14,10 @@
 
 ### 1.1 Ihr Projekt
 
-✍️ Beschreiben Sie Ihr Projekt in einem griffigen Satz.
+Wir programmieren eine To-Do Liste.
 
-✍️ Erklären Sie genauer in 50 bis 100 Wörtern, was genau Sie in diesem Projekt erreichen möchten, und was Sie dabei zu lernen hoffen.
+Unser Ziel ist es eine To-Do Liste zu programmieren. Sie soll auf einer Webseite mit einem Login angerufen werden können.
+Evtl. soll auch ein Kalender ersichtlich sein welcher die Deadline aller Aufgaben bei dem Datum anzeigt.
 
 ### 1.2 User Stories
 
@@ -33,9 +34,10 @@
 | 9    | Muss            | Qualität  | Als User möchte ich, dass die Aufgaben nach Priorität sortiert werden, um diese schneller einzusehen.| 
 | 10   | Muss            | Funktional| Als User möchte ich, dass die Aufgaben in einer Liste dargestellt werden.|
 | 11   | Kann            | Qualität  | Als User möchte ich, dass die Aufgaben in einem Kalender angezeigt werden, um zu wissen, bis wann die Aufgaben erledigt sein müssen.| 
-| 12   | Kann            | 
+| 12   | Kann            | QUalität  | Als User möchte ich, auf meine Logindaten zugreifen können, um evtl. Änderungen vorzunehmen.|
+| 13   | Kann            | Qualität  | Als User möchte ich, eine Dauer der Aufgabe zuordnen können.|
+| 14   | Kann            | Qualität  | Als User möchte ich eingeben können, wenn sich die Aufgabe immer wieder widerholt.| 
 
-✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
 
 ### 1.3 Testfälle
 
