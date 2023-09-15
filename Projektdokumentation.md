@@ -22,8 +22,18 @@
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1    |                 |      | Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️ |
-| ...  |                 |      |                                    |
+| 1    | Muss            | Funktional| Als User möchte ich, dass ich mich mit einem Login anmelden kann, um auf meine gespeicherten Dienste zugreifen zu können. |
+| 2    | Muss            | Funktional| Als User möchte ich, dass ich meine To-Do Liste einsehen kann, um meine Aufgaben erledigen zu können.|
+| 3    | Muss            | Funktional| Als User möchte ich neue Aufgaben erfassen, um mir die Aufgaben merken zu können.| 
+| 4    | Muss            | Funktional| Als User möchte ich den neuen Aufgaben einen Namen, eine Deadline, ein Prioritätslevel und  Notitzen hinzufügen können. | 
+| 5    | Muss            | Funktional| Als USer möchte ich, dass ich Aufgaben bearbeiten kann, um Änderungen der Aufgaben festzuhalten.|
+| 6    | Muss            | Funktional| Als User möchte ich, dass ich erledigte Aufgaben abhäckeln kann.| 
+| 7    | Kann            | Qualität  | Als User möchte ich, dass die Aufgaben für die Arbeit eine andere Farbe haben als die Arbeit für das Privatleben, um dieses Durcheinander zu vermeiden.|
+| 8    | Kann            | Qualität  | Als User möchte ich, dass ich beim erstellen einer neuen Aufgabe angeben kann, ob es eine Aufgabe für die Arbeit oder das Privatleben ist.| 
+| 9    | Muss            | Qualität  | Als User möchte ich, dass die Aufgaben nach Priorität sortiert werden, um diese schneller einzusehen.| 
+| 10   | Muss            | Funktional| Als User möchte ich, dass die Aufgaben in einer Liste dargestellt werden.|
+| 11   | Kann            | Qualität  | Als User möchte ich, dass die Aufgaben in einem Kalender angezeigt werden, um zu wissen, bis wann die Aufgaben erledigt sein müssen.| 
+| 12   | Kann            | 
 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
 
