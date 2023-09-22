@@ -7,7 +7,7 @@
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
 |15.09.2023| 0.0.1   | Ausdenken des Projekts Kapitel 1.1 & 1.2 ausgefüllt und Mockup begonnen.  |
-|       | ...     |                                                              |
+|22.09.2023| 0.0.2   |Kapitel 1.3 -3 bearbeitet, Realisierung begonnen|
 |       | 1.0.0   |                                                              |
 
 ## 1 Informieren
