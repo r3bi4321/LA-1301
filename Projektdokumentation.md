@@ -6,7 +6,7 @@
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-|       | 0.0.1   | ✍️ Jedes Mal, wenn Sie an dem Projekt arbeiten, fügen Sie hier eine neue Zeile ein und beschreiben in *einem* Satz, was Sie erreicht haben. |
+|15.09.2023| 0.0.1   | Ausdenken des Projekts Kapitel 1.1 & 1.2 ausgefüllt und Mockup begonnen.  |
 |       | ...     |                                                              |
 |       | 1.0.0   |                                                              |
 
@@ -34,24 +34,43 @@ Evtl. soll auch ein Kalender ersichtlich sein welcher die Deadline aller Aufgabe
 | 9    | Muss            | Qualität  | Als User möchte ich, dass die Aufgaben nach Priorität sortiert werden, um diese schneller einzusehen.| 
 | 10   | Muss            | Funktional| Als User möchte ich, dass die Aufgaben in einer Liste dargestellt werden.|
 | 11   | Kann            | Qualität  | Als User möchte ich, dass die Aufgaben in einem Kalender angezeigt werden, um zu wissen, bis wann die Aufgaben erledigt sein müssen.| 
-| 12   | Kann            | QUalität  | Als User möchte ich, auf meine Logindaten zugreifen können, um evtl. Änderungen vorzunehmen.|
+| 12   | Kann            | Qualität  | Als User möchte ich, auf meine Logindaten zugreifen können, um evtl. Änderungen vorzunehmen.|
 | 13   | Kann            | Qualität  | Als User möchte ich, eine Dauer der Aufgabe zuordnen können.|
 | 14   | Kann            | Qualität  | Als User möchte ich eingeben können, wenn sich die Aufgabe immer wieder widerholt.|
 | 15   | Muss            | Funktional| Als User möchte ich ein neues Login erstellen können.| 
+
 
 
 ### 1.3 Testfälle
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
-| 1.1  | Login ist erstellt|Mit Login einlogen |To-Do Liste erscheint|
-| ...  |              |         |                   |
+| 1.1  | Startseite ist geöffnet, Anmeldefeld für Login angewählt | Login eingeben  | Anmeldung war erfolgreich |
+| 1.2  | Startseite ist geöffnet, Anmeldefeld für Login angewählt |Richtiger Loginname falsches Passwort|Falsches Passwort|
+| 2.1  | Login ist korrekt eingegeben| *Enter*| To-Do Liste erscheint|
+| 3.1  | Eingeloggt auf der To-Do Liste| *Aufs + Klicken*| Fenster um eine Aufgabe zu erstellen öffnet sich|
+| 4.1  | Fenster um eine Aufgabe zu erstellen ist geöffnet| *Alle Felder ausfüllen*| Aufgabe wird mit diesen Daten gespeichert|
+| 5.1  | Aufgabe auswählen| Priorität von sehr wichtig zu wichtig ändern| Update wird gespeichert|
+| 5.2  | Aufgabe auswählen| Notitzen hinzufügen| Update wird gespeichert|
+| 6.1  | To-Do lIste geöffnet| Häckchen bei der Aufgabe setzten| Aufgabe wird gestrichen|
+| 7.1  | Einloggen| *Enter* | Blaue und grüne Balken sind am RAnd der Aufgaben.| 
+| 8.1  | Aufgabe erstellen| Privat auswählen| Aufgabe hat einen blauen Balken|
+| 8.2  | Aufgabe erstellen| Arbeit auswählen| Aufgabe hat einen grünen Balken|
+| 9.1  | Aufgabe erstellen| Priorität tief | Aufgabe wird zu unterst eingeordnet|
+| 9.2  | Aufgabe erstellen| Priorität hoch | Aufgabe wird zu oberste eingeordnet|
+| 10.1 | Login eingeben |*Enter* | Aufgaben erscheinen in einer Liste|
+| 11.1 | To-Do Liste ist geöffnet| *Wechsel auf Kalenderansicht*| Aufgaben werden im Kalender angezeigt.|
+| 12.1 | Eingeloggt| *Mein Konto auswählen*| Persönliche Daten erscheinen.| 
+| 13.1 | Aufgabe erstellen| Dauer: 45 min | Daten werden gespeichert|
+| 14.1 | Aufgabe erstellen| Wiederholung der Aufgabe: Alle 7 Tage| Daten werden gespeichert|
+| 15.1 | Startseite geöffnet| Registrieren| Feld für neues Login erscheint|
+| 15.2 | Feld für neues Login ist geöffnet| Neues Login erstellen| Login wurde erfolgreich erstellt|
 
-✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
+
 
 ### 1.4 Diagramme
 
-✍️Fügen Sie hier ein Use Case-Diagramm mit mindestens 3 Anwendungsfällen ein; und eine Skizze davon, wie Ihre Netzseite aussehen sollte.
+
 
 ## 2 Planen
 
