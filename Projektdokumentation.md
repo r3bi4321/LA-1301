@@ -76,7 +76,7 @@ Evtl. soll auch ein Kalender ersichtlich sein welcher die Deadline aller Aufgabe
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |       |           |              |               |
+| 1.A  | 27.10.2023|           |              |               |
 | ...  |       |           |              |               |
 
 Total: 
