@@ -86,37 +86,23 @@ Evtl. soll auch ein Kalender ersichtlich sein welcher die Deadline aller Aufgabe
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  | 27.10.2023|  ST   |  Erstellen des Logins, evt. versuchen, Liste damit zu verbinden|   45min            |
-| 2.A |   27.10.2023    |   ST        |  Verbinden der Listenseite, druch GUI            |  45min             |
-| 3.A |  27.10.2023     |   RW        |  Eingabefeld für das Erfassen der neuen Aufgaben            |     45min          |
-
-| 4.A  |  27.10.2023     |  RW         |              |       45min            |
-
-| 5.A  |  27.10.2023     |  RW         |              |       45min            |
-
-| 6.A  | 27.10.2023      |   RW        |              |         45min          |
-
-| ...  |       |           |     RW         |        45min           |
-
-| ...  |       |           |      RW        |       45min            |
-
-| ...  |       |           |     RW         |       45min            |
-
-| ...  |       |           |     RW         |        45min           |
-
-| ...  |       |           |      RW        |        45min           |
-
-| ...  |       |           |      Rw        |       45min            |
-
-| ...  |       |           |     RW         |        45min           |
-
-| ...  |       |           |      RW        |          45min         |
-
-| ...  |       |           |      ST        |       120min           |
-
-| ...  |       |           |      ST        |          60min        |
-
-| ...  |       |           |      ST        |        45min            |
+| 1.A  | 22.09.2023|  ST   |  Erstellen des Logins, evt. versuchen, Liste damit zu verbinden|   45min            |
+| 2.A |   22.09.2023    |   ST        |  Verbinden der Listenseite, druch GUI            |  45min             |
+| 3.A |  22.09.2023     |   RW        |  Eingabefeld für das Erfassen der neuen Aufgaben            |     45min          |
+| 4.A  |  22.09.2023    |  RW         |    Funktionen der Aufgaben hinzufügen          |       45min            |
+| 5.A  |  29.09.2023    |  RW         |     Aktualisierung der Aufgaben ermöglichen         |       45min            |
+| 6.A  |29.09.2023      |   RW        |     Erledigte Aufgaben abhäckeln können         |         45min          |
+| 7.A  |  27.10.2023     |    RW       |     Aufgaben mit Farben kennzeichnen können         |        45min           |
+| 8.A  |  27.10.2023     |     RW      |      Aufgaben zwischen Arbeit/Privat unterscheiden       |       45min            |
+| 9.A  |    27.10.2023   |    RW       |     Aufgaben nach Priorität sortieren        |       45min            |
+| 10.A  |   27.10.2023    |   RW        |     Aufgaben in Liste einsehen können        |        45min           |
+| 11.A |   03.11.2023    |    RW       |     Aufgaben in Kalender anzeigen        |        45min           |
+| 12.A |   03.11.2023    |    ST       |      Zugriff auf Logindaten gewähren       |       45min            |
+| 13.A |  03.11.2023     |    RW       |     Dauer einer Aufgabe hinzufügen können         |        45min           |
+| 14.A |  03.11.2023     |     RW      |      Wiederholbarkeit der Aufgaben einstellen können       |          45min         |
+| 15.A |  29.09.2023     |     ST      |      Erstellung eines neuen Logins für Benutzer      |       120min           |
+| 16.A |  27.10.2023     |     ST      |      Registrierung erstellen      |          60min        |
+| 17.A |    03.11.2023   |      ST     |       Startseite formatieren      |        45min            |
 
 
 Total: 
