@@ -18,7 +18,7 @@ Rebecca Willi, Salma Tanner
 
 Wir programmieren eine To-Do Liste.
 
-Unser Ziel ist es eine To-Do Liste zu programmieren. Sie soll auf einer Webseite mit einem Login angerufen werden können.
+Unser Ziel ist es eine To-Do Liste zu programmieren. Sie soll auf einer Webseite mit einem Login angerufen werden können. Man soll Aufgaben erstellen können, diese werden dann in OFrm einer Liste angezeigt.
 Evtl. soll auch ein Kalender ersichtlich sein welcher die Deadline aller Aufgaben bei dem Datum anzeigt.
 
 ### 1.2 User Stories
@@ -40,6 +40,8 @@ Evtl. soll auch ein Kalender ersichtlich sein welcher die Deadline aller Aufgabe
 | 13   | Kann            | Qualität  | Als User möchte ich, eine Dauer der Aufgabe zuordnen können.|
 | 14   | Kann            | Qualität  | Als User möchte ich eingeben können, wenn sich die Aufgabe immer wieder widerholt.|
 | 15   | Muss            | Funktional| Als User möchte ich ein neues Login erstellen können.| 
+| 16   | Muss            | Funktional| Als User möchte ich mich registrieren können.| 
+| 17   | Muss            | Funktional| Als User möchte ich mich auf der Startseite in die Funktion/den Aufbau von den To-Do Listen einlesen können. | 
 
 
 
@@ -67,6 +69,7 @@ Evtl. soll auch ein Kalender ersichtlich sein welcher die Deadline aller Aufgabe
 | 14.1 | Aufgabe erstellen| Wiederholung der Aufgabe: Alle 7 Tage| Daten werden gespeichert|
 | 15.1 | Startseite geöffnet| Registrieren| Feld für neues Login erscheint|
 | 15.2 | Feld für neues Login ist geöffnet| Neues Login erstellen| Login wurde erfolgreich erstellt|
+
 
 
 
