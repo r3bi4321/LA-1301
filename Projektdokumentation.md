@@ -89,7 +89,7 @@ Evtl. soll auch ein Kalender ersichtlich sein welcher die Deadline aller Aufgabe
 | 1.A  | 22.09.2023|  ST   |  Erstellen des Logins, evt. versuchen, Liste damit zu verbinden|   45min            |
 | 2.A |   22.09.2023    |   ST        |  Verbinden der Listenseite, druch GUI            |  45min             |
 | 3.A |  22.09.2023     |   RW        |  Eingabefeld für das Erfassen der neuen Aufgaben            |     45min          |
-| 4.A  |  22.09.2023    |  RW         |    Funktionen der Aufgaben hinzufügen          |       45min            |
+| 4.A  |  22.09.2023    |  RW         |    Funktionen der Aufgaben hinzufügen          |       60min            |
 | 5.A  |  29.09.2023    |  RW         |     Aktualisierung der Aufgaben ermöglichen         |       45min            |
 | 6.A  |29.09.2023      |   RW        |     Erledigte Aufgaben abhäckeln können         |         45min          |
 | 7.A  |  27.10.2023     |    RW       |     Aufgaben mit Farben kennzeichnen können         |        45min           |
@@ -102,10 +102,10 @@ Evtl. soll auch ein Kalender ersichtlich sein welcher die Deadline aller Aufgabe
 | 14.A |  03.11.2023     |     RW      |      Wiederholbarkeit der Aufgaben einstellen können       |          45min         |
 | 15.A |  29.09.2023     |     ST      |      Erstellung eines neuen Logins für Benutzer      |       120min           |
 | 16.A |  27.10.2023     |     ST      |      Registrierung erstellen      |          60min        |
-| 17.A |    03.11.2023   |      ST     |       Startseite formatieren      |        45min            |
+| 17.A |    03.11.2023   |      ST     |       Startseite formatieren      |        120min           | 
 
 
-Total: 
+Total: 930min
 
 ## 3 Entscheiden
 
@@ -113,10 +113,25 @@ Wir haben uns dazu entschieden, die Arbeitspakete aufzuteilen. Rebecca Willi mac
 
 ## 4 Realisieren
 
-| AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
-| ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  |       |           |               |                   |
-| ...  |       |           |               |                   |
+| AP-№ | Datum | Zuständig | tatsächliche Zeit |
+| ---- | ----- | --------- | ----------------- |
+| 1.A  | 22.09.2023     |  ST          |     60min          |                   
+| 2.A     | 22.09.2023     |  ST          |   60min            |                   
+|  3.A    | 22.09.2023   |   RW         |     45min          |                   
+|    4.A  | 22.09.2023 |   RW         |       45min        |                   
+| 5.A     |   29.09.2023     |  RW          | 60min              |                   
+| 6.A     |  29.09.2023      |   RW         |    45min           |                   
+| 7.A     |   27.10.2023      |   RW         | 60min              |                   
+| 8.A     |   27.10.2023      |   RW         |     45min          |                   
+| 9.A     |    27.10.2023     |   RW         |  60min             |                   
+| 10.A     |   27.10.2023      |   RW         |    120min             |                   
+|  11.A    |  03.11.2023     |   RW         | 60min              |                   
+| 12.A     |  03.11.2023     |   ST        |   45min            |                   
+| 13.A     |  03.11.2023     |  RW          |  45min             |                   
+| 14.A     |  03.11.2023     |  RW          |  60min             |                   
+| 15.A     |  03.11.2023     |  ST          |     120min            |                   
+| 16.A     |    27.10.2023     |  ST          |      45min         |                   
+| 17.A     |   29.09.2023     |  ST          |        120min         |                   
 
 
 
@@ -125,7 +140,23 @@ Wir haben uns dazu entschieden, die Arbeitspakete aufzuteilen. Rebecca Willi mac
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
 | 1.1  |       |          |        |
-| ...  |       |          |        |
+|      |       |          |        |
+|      |       |          |        |
+|      |       |          |        |
+|      |       |          |        |
+|      |       |          |        |
+|      |       |          |        |
+|      |       |          |        |
+|      |       |          |        |
+|      |       |          |        |
+|      |       |          |        |
+|      |       |          |        |
+|      |       |          |        |
+|      |       |          |        |
+|      |       |          |        |
+|      |       |          |        |
+|      |       |          |        |
+
 
 ✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
 
