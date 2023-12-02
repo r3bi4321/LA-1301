@@ -67,8 +67,13 @@ Evtl. soll auch ein Kalender ersichtlich sein welcher die Deadline aller Aufgabe
 | 12.1 | Eingeloggt| *Mein Konto auswählen*| Persönliche Daten erscheinen.| 
 | 13.1 | Aufgabe erstellen| Dauer: 45 min | Daten werden gespeichert|
 | 14.1 | Aufgabe erstellen| Wiederholung der Aufgabe: Alle 7 Tage| Daten werden gespeichert|
-| 15.1 | Startseite geöffnet| Registrieren| Feld für neues Login erscheint|
+| 15.1 | Registrierungsseite geöffnet| Registrieren| Bestätigung für Registrierung erscheint.|
 | 15.2 | Feld für neues Login ist geöffnet| Neues Login erstellen| Login wurde erfolgreich erstellt|
+| 16.1 | Registrierungsseite geöffnet| Registrieren| Registrierung erfolgreich abgeschlossen.|
+| 17.1 | Startseite geöffnet|Scrollen auf der Seite| Ausgabe Text/Anleitung für To-Do Listen|
+
+
+
 
 
 
@@ -81,18 +86,44 @@ Evtl. soll auch ein Kalender ersichtlich sein welcher die Deadline aller Aufgabe
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  | 27.10.2023|           |              |               |
+| 1.A  | 27.10.2023|  ST   |  Erstellen des Logins, evt. versuchen, Liste damit zu verbinden|   45min            |
+| 2.A |   27.10.2023    |   ST        |  Verbinden der Listenseite, druch GUI            |  45min             |
+| 3.A |  27.10.2023     |   RW        |  Eingabefeld für das Erfassen der neuen Aufgaben            |     45min          |
+
+| 4.A  |  27.10.2023     |  RW         |              |               |
+
+| 5.A  |  27.10.2023     |  RW         |              |               |
+
+| 6.A  | 27.10.2023      |   RW        |              |               |
+
+| ...  |       |           |     RW         |               |
+
+| ...  |       |           |      RW        |               |
+
+| ...  |       |           |     RW         |               |
+
+| ...  |       |           |     RW         |               |
+
 | ...  |       |           |              |               |
+
+| ...  |       |           |              |               |
+
+| ...  |       |           |              |               |
+
+| ...  |       |           |              |               |
+
+| ...  |       |           |      ST        |               |
+
+| ...  |       |           |      ST        |               |
+
+| ...  |       |           |      ST        |               |
+
 
 Total: 
 
-✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, auf die sich das Arbeitspaket bezieht, und `m` von `A` an nach oben buchstabiert. Beispiel: Das dritte Arbeitspaket, das die zweite User Story betrifft, hat also die Nummer `2.C`.
-
-✍️ Ein Arbeitspaket sollte etwa 45' für eine Person in Anspruch nehmen. Die totale Anzahl Arbeitspakete sollte etwa Folgendem entsprechen: `Anzahl R-Sitzungen` ╳ `Anzahl Gruppenmitglieder` ╳ `4`. Wenn Sie also zu dritt an einem Projekt arbeiten, für welches zwei R-Sitzungen geplant sind, sollten Sie auf `2` ╳ `3` ╳`4` = `24` Arbeitspakete kommen. Sollten Sie merken, dass Sie hier nicht genügend Arbeitspakte haben, denken Sie sich weitere "Kann"-User Stories für Kapitel 1.2 aus.
-
 ## 3 Entscheiden
 
-✍️ Dokumentieren Sie hier Ihre Entscheidungen und Annahmen, die Sie im Bezug auf Ihre User Stories und die Implementierung getroffen haben.
+Wir haben uns dazu entschieden, die Arbeitspakete aufzuteilen. Rebecca Willi macht den Listen bereich, wo man die Aufgaben erfässt und Salma Tanner macht die Startseite, den Loginbereich und die Registrierung.
 
 ## 4 Realisieren
 
@@ -101,7 +132,7 @@ Total:
 | 1.A  |       |           |               |                   |
 | ...  |       |           |               |                   |
 
-✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
+
 
 ## 5 Kontrollieren
 
@@ -112,6 +143,5 @@ Total:
 
 ✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
 
-## 6 Auswerten
 
-✍️ Fügen Sie hier eine Verknüpfung zu Ihrem Lern-Bericht ein.
+
