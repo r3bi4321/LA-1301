@@ -9,7 +9,7 @@ Rebecca Willi, Salma Tanner
 |22.09.2023| 0.0.2   |Kapitel 1.3 -3 bearbeitet, Realisierung begonnen|
 | 29.09.2023| 0.0.3   |  Fortsetzten mit realisieren, besprechen der Fortschritte| 
 |27.10.2023| 0.0.4   |Realisieren fortsetzten, Projekktdokumentation aktualisieren|
-|03.11.2023| 0.0.5   |Realieren abschliessen, anfangen mit Portfolioeintrag|
+|03.11.2023| 0.0.5   |Realieren abschliessen, Projektdokumentation abschliessen, anfangen mit Portfolioeintrag|
 |10.11.2023| 0.0.6   |Abschliessen mit Portfolioeintrag|
 
 ## 1 Informieren
@@ -50,7 +50,6 @@ Evtl. soll auch ein Kalender ersichtlich sein welcher die Deadline aller Aufgabe
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
 | 1.1  | Startseite ist geöffnet, Anmeldefeld für Login angewählt | Login eingeben  | Anmeldung war erfolgreich |
-| 1.2  | Startseite ist geöffnet, Anmeldefeld für Login angewählt |Richtiger Loginname falsches Passwort|Falsches Passwort|
 | 2.1  | Login ist korrekt eingegeben| *Enter*| To-Do Liste erscheint|
 | 3.1  | Eingeloggt auf der To-Do Liste| *Aufs + Klicken*| Fenster um eine Aufgabe zu erstellen öffnet sich|
 | 4.1  | Fenster um eine Aufgabe zu erstellen ist geöffnet| *Alle Felder ausfüllen*| Aufgabe wird mit diesen Daten gespeichert|
@@ -68,7 +67,6 @@ Evtl. soll auch ein Kalender ersichtlich sein welcher die Deadline aller Aufgabe
 | 13.1 | Aufgabe erstellen| Dauer: 45 min | Daten werden gespeichert|
 | 14.1 | Aufgabe erstellen| Wiederholung der Aufgabe: Alle 7 Tage| Daten werden gespeichert|
 | 15.1 | Registrierungsseite geöffnet| Registrieren| Bestätigung für Registrierung erscheint.|
-| 15.2 | Feld für neues Login ist geöffnet| Neues Login erstellen| Login wurde erfolgreich erstellt|
 | 16.1 | Registrierungsseite geöffnet| Registrieren| Registrierung erfolgreich abgeschlossen.|
 | 17.1 | Startseite geöffnet|Scrollen auf der Seite| Ausgabe Text/Anleitung für To-Do Listen|
 
@@ -87,7 +85,7 @@ Evtl. soll auch ein Kalender ersichtlich sein welcher die Deadline aller Aufgabe
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
 | 1.A  | 22.09.2023|  ST   |  Erstellen des Logins, evt. versuchen, Liste damit zu verbinden|   45min            |
-| 2.A |   22.09.2023    |   ST        |  Verbinden der Listenseite, druch GUI            |  45min             |
+| 2.A |   22.09.2023    |   ST        |  Verbinden der Listenseite, durch GUI            |  45min             |
 | 3.A |  22.09.2023     |   RW        |  Eingabefeld für das Erfassen der neuen Aufgaben            |     45min          |
 | 4.A  |  22.09.2023    |  RW         |    Funktionen der Aufgaben hinzufügen          |       60min            |
 | 5.A  |  29.09.2023    |  RW         |     Aktualisierung der Aufgaben ermöglichen         |       45min            |
@@ -139,26 +137,29 @@ Wir haben uns dazu entschieden, die Arbeitspakete aufzuteilen. Rebecca Willi mac
 
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
-| 1.1  |       |          |        |
-|      |       |          |        |
-|      |       |          |        |
-|      |       |          |        |
-|      |       |          |        |
-|      |       |          |        |
-|      |       |          |        |
-|      |       |          |        |
-|      |       |          |        |
-|      |       |          |        |
-|      |       |          |        |
-|      |       |          |        |
-|      |       |          |        |
-|      |       |          |        |
-|      |       |          |        |
-|      |       |          |        |
-|      |       |          |        |
+| 1.1  | 03.11.2023      | Loginformular wurde erstellt, man kann es benutzen         |  ST      |
+| 2.1     | 03.11.2023      |  Mithilfe von Button kommt man von Startseite auf Listenseite.        | ST       |
+| 3.1     | 03.11.2023      |          |  RW      |
+| 4.1     |03.11.2023       |          |  RW      |
+| 5.1     | 03.11.2023      |          |  RW      |
+| 5.2     | 03.11.2023      |          |  RW      |
+| 6.1     | 03.11.2023      |          | RW       |
+| 7.1     |  03.11.2023     |          |  RW      |
+| 8.1      | 03.11.2023      |          |  RW      |
+| 8.2      | 03.11.2023      |          |  RW      |
+| 9.1     |  03.11.2023     |          |   RW     |
+| 9.2     |  03.11.2023     |          |   RW     |
+| 10.1     | 03.11.2023      |          |  RW      |
+| 11.1     |  03.11.2023     |          |  RW      |
+| 12.1     |  03.11.2023     | Zugriff auf die Logindaten hat nur der Verwalter der Formulare, der Benutzer kann sie nicht ändern.         |  ST      |
+|  13.1    |  03.11.2023     |          |  RW      |
+|  14.1    |  03.11.2023     |          |   RW     |
+| 15.1     |  03.11.2023     |   Formular für Login kann man ausfüllen, es funktioniert, Daten werden gesendet, jedoch funktioniert Login nicht wirklich, man kann seine Listen  nicht perönlich speichern.        | ST       |
+| 16.1     |  03.11.2023     |   Formular für die Registrierung funktioniert, Daten werden versendet bzw. man erhält Bestätigung, jedoch merkt sich die Webapplikation die Registrierung nicht.       | ST       |
+|  17.1    |   03.11.2023    |  Startseite funktioniert, man kann sich gut einlesen.        |  ST      |
 
 
-✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
+Die Webseite an sich funktioniert und erfüllt ihren Zweck. Man kann Aufgaben erstellen und diese einsehen, das ist das wichtigste. Es gibt beim Login/Registrierung Probleme mit dem BackEnd, d.h die Daten werden zwar gesendet, jedoch nicht verarbeitet. Deshalb kann man seine persönliche Liste nicht auf seinem Konto speichern, sonst erfüllt sie ihren Zweck. 
 
 
 
