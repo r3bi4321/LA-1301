@@ -1,14 +1,16 @@
 # Projekt-Dokumentation
 
-☝️ Alle Text-Stellen, welche mit einem ✍️ beginnen, können Sie löschen, sobald Sie die entsprechende Stellen ausgefüllt haben.
 
-✍️ Ihr Gruppenname und Ihre Nachnamen
+Rebecca Willi, Salma Tanner
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
 |15.09.2023| 0.0.1   | Ausdenken des Projekts Kapitel 1.1 & 1.2 ausgefüllt und Mockup begonnen.  |
 |22.09.2023| 0.0.2   |Kapitel 1.3 -3 bearbeitet, Realisierung begonnen|
-|       | 1.0.0   |                                                              |
+| 29.09.2023| 0.0.3   |  Fortsetzten mit realisieren, besprechen der Fortschritte| 
+|27.10.2023| 0.0.4   |Realisieren fortsetzten, Projekktdokumentation aktualisieren|
+|03.11.2023| 0.0.5   |Realieren abschliessen, anfangen mit Portfolioeintrag|
+|10.11.2023| 0.0.6   |Abschliessen mit Portfolioeintrag|
 
 ## 1 Informieren
 
