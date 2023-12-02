@@ -90,33 +90,33 @@ Evtl. soll auch ein Kalender ersichtlich sein welcher die Deadline aller Aufgabe
 | 2.A |   27.10.2023    |   ST        |  Verbinden der Listenseite, druch GUI            |  45min             |
 | 3.A |  27.10.2023     |   RW        |  Eingabefeld für das Erfassen der neuen Aufgaben            |     45min          |
 
-| 4.A  |  27.10.2023     |  RW         |              |               |
+| 4.A  |  27.10.2023     |  RW         |              |       45min            |
 
-| 5.A  |  27.10.2023     |  RW         |              |               |
+| 5.A  |  27.10.2023     |  RW         |              |       45min            |
 
-| 6.A  | 27.10.2023      |   RW        |              |               |
+| 6.A  | 27.10.2023      |   RW        |              |         45min          |
 
-| ...  |       |           |     RW         |               |
+| ...  |       |           |     RW         |        45min           |
 
-| ...  |       |           |      RW        |               |
+| ...  |       |           |      RW        |       45min            |
 
-| ...  |       |           |     RW         |               |
+| ...  |       |           |     RW         |       45min            |
 
-| ...  |       |           |     RW         |               |
+| ...  |       |           |     RW         |        45min           |
 
-| ...  |       |           |              |               |
+| ...  |       |           |      RW        |        45min           |
 
-| ...  |       |           |              |               |
+| ...  |       |           |      Rw        |       45min            |
 
-| ...  |       |           |              |               |
+| ...  |       |           |     RW         |        45min           |
 
-| ...  |       |           |              |               |
+| ...  |       |           |      RW        |          45min         |
 
-| ...  |       |           |      ST        |               |
+| ...  |       |           |      ST        |       120min           |
 
-| ...  |       |           |      ST        |               |
+| ...  |       |           |      ST        |          60min        |
 
-| ...  |       |           |      ST        |               |
+| ...  |       |           |      ST        |        45min            |
 
 
 Total: 
