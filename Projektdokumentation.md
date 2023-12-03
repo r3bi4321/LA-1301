@@ -114,17 +114,17 @@ Wir haben uns dazu entschieden, die Arbeitspakete aufzuteilen. Rebecca Willi mac
 | AP-№ | Datum | Zuständig | tatsächliche Zeit |
 | ---- | ----- | --------- | ----------------- |
 | 1.A  | 22.09.2023     |  ST          |     60min          |                   
-| 2.A     | 22.09.2023     |  ST          |   65min            |                   
-|  3.A    | 22.09.2023   |   RW         |     50min          |                   
-|    4.A  | 22.09.2023 |   RW         |       45min        |                                     
-| 6.A     |  29.09.2023      |   RW         |    45min           |                                                                          
-| 10.A     |   27.10.2023      |   RW         |    125min             |                                     
+| 2.A     | 22.09.2023     |  ST          |   60min            |                   
+|  3.A    | 22.09.2023   |   RW         |     60min          |                   
+|    4.A  | 22.09.2023 |   RW         |       60min        |                                     
+| 6.A     |  29.09.2023      |   RW         |    50min           |                                                                          
+| 10.A     |   27.10.2023      |   RW         |    140min             |                                     
 | 12.A     |  03.11.2023     |   ST        |   45min            |                   
-| 13.A     |  03.11.2023     |  RW          |  50min             |                   
+| 13.A     |  03.11.2023     |  RW          |  55min             |                   
 | 14.A     |  03.11.2023     |  RW          |  65min             |                   
 | 15.A     |  03.11.2023     |  ST          |     120min            |                   
 | 16.A     |    27.10.2023     |  ST          |      45min         |                   
-| 17.A     |   29.09.2023     |  ST          |        110min         |                   
+| 17.A     |   29.09.2023     |  ST          |        120min         |                   
 
 
 
