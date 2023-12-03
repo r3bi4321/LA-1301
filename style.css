@@ -1,30 +1,30 @@
 
 html,body{
-    font-family: Arial, sans-serif;
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-		
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  
 }
 .bg { 
-    background: url(https://banner2.cleanpng.com/20180327/szq/kisspng-area-textile-circle-pattern-pink-background-5ab9c79c16c826.3249697115221247000933.jpg) repeat-x;
-    width: 90%; margin: 1em auto; max-width:600px; height: 110px;
-    animation: lines 12s linear infinite;
- }
- 
- @keyframes bg {
-     from { background-position: 0px 0px }
-     to { background-position: 300px 0px }
- }
- 
+  background: url(https://banner2.cleanpng.com/20180327/szq/kisspng-area-textile-circle-pattern-pink-background-5ab9c79c16c826.3249697115221247000933.jpg) repeat-x;
+  width: 90%; margin: 1em auto; max-width:600px; height: 110px;
+  animation: lines 12s linear infinite;
+}
+
+@keyframes bg {
+   from { background-position: 0px 0px }
+   to { background-position: 300px 0px }
+}
+
 
 
 header {
-    background-color: #F5A1D8;
-    color: black;
-    padding: 15px;
-    display: flex;
-    align-items: center;
+  background-color: #F5A1D8;
+  color: black;
+  padding: 15px;
+  display: flex;
+  align-items: center;
 }
 h1{
 white-space: nowrap;
@@ -35,76 +35,134 @@ display: flex;
 
 
 .logo img {
-    max-width: 100px;
-    height: auto;
-    margin-right: 15px;
-    
+  max-width: 100px;
+  height: auto;
+  margin-right: 15px;
+  
 }
 
 .img1{
 
-    width: 50%;
-    height:auto;
-    position: absolute;
-    left: 700px;
-    top: 400px;
+  width: 50%;
+  height:auto;
+  position: absolute;
+  left: 700px;
+  top: 400px;
 }
 figure{
-    
-    display: flex;
-    gap: 100px;
-    
+  
+  display: flex;
+  gap: 100px;
+  
 
-  }
+}
 
 button {
-    
-    border: 2px solid white;
-    background-color: #e75480;
-    border-radius: 0.9em;
-    padding: 0.8em 1.2em 0.8em 1em;
-    transition: all ease-in-out 0.2s;
-    font-size: 16px;
-    position: absolute;
-    top: 45px;
-    right: 5%;
+  
+  border: 2px solid white;
+  background-color: #e75480;
+  border-radius: 0.9em;
+  padding: 0.8em 1.2em 0.8em 1em;
+  transition: all ease-in-out 0.2s;
+  font-size: 16px;
+  position: absolute;
+  top: 45px;
+  right: 5%;
 }
 
 button span {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    color: #fff;
-    font-weight: 600;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #fff;
+  font-weight: 600;
 }
 
 button:hover {
-    background-color: black;
-    cursor: pointer;
+  background-color: black;
+  cursor: pointer;
 }
 
 main {
-    padding: 20px;
-    background-color: #f9f9f9;
+  padding: 20px;
+  background-color: #f9f9f9;
 }
 
 nav {
-    margin-top: 20px;
-    padding: 20px;
-    background-color: #fff;
-    border-radius: 8px;
+  margin-top: 20px;
+  padding: 20px;
+  background-color: #fff;
+  border-radius: 8px;
 }
 
 section {
-    margin-top: 20px;
-    padding: 20px;
-    background-color: #fff;
-    border-radius: 8px;
+  margin-top: 20px;
+  padding: 20px;
+  background-color: #fff;
+  border-radius: 8px;
 }
 
 footer {
-    background-color: #F5A1D8;
-    color: black;
-    text-align: center;
-    padding: 15px;
+  background-color: #F5A1D8;
+  color: black;
+  text-align: center;
+  padding: 15px;
+
 }
+.layoutFooter{
+  position: absolute;
+  bottom: 0%;
+  width:100%;
+  background-color: #F5A1D8;
+  height: 120px;
+}
+.layoutHeader{
+  top: 0%;
+  width: 100%;
+  background-color: #F5A1D8;
+  height: 100px;
+}
+
+.input{
+  align-items: center;
+  margin-bottom: 20px;
+  width: 300px; 
+   font-size: 1.1em; 
+   font-family: inherit;
+   font-weight: 300;
+   margin-top: 20px;
+   margin-left: 70px;
+
+}
+
+.erstellenButton{
+  align-items: right, bottom;
+}
+
+.pictureListe{
+  float: right;
+  margin-right: 30px;
+  
+  
+}
+.Liste{
+  font-size: 20px;
+  text-align: center;
+  margin-top: 20px;
+  font-family: cursive;
+}
+
+.inputPA{
+  align-items: center;
+  margin-bottom: 20px;
+  width: 30px; 
+   font-size: 1.1em; 
+   font-family: inherit;
+   font-weight: 30;
+   margin-top: 20px;
+   margin-left: 70px;
+
+}
+
+
+
