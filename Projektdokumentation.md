@@ -114,22 +114,17 @@ Wir haben uns dazu entschieden, die Arbeitspakete aufzuteilen. Rebecca Willi mac
 | AP-№ | Datum | Zuständig | tatsächliche Zeit |
 | ---- | ----- | --------- | ----------------- |
 | 1.A  | 22.09.2023     |  ST          |     60min          |                   
-| 2.A     | 22.09.2023     |  ST          |   60min            |                   
-|  3.A    | 22.09.2023   |   RW         |     45min          |                   
-|    4.A  | 22.09.2023 |   RW         |       45min        |                   
-| 5.A     |   29.09.2023     |  RW          | 60min              |                   
-| 6.A     |  29.09.2023      |   RW         |    45min           |                   
-| 7.A     |   27.10.2023      |   RW         | 60min              |                   
-| 8.A     |   27.10.2023      |   RW         |     45min          |                   
-| 9.A     |    27.10.2023     |   RW         |  60min             |                   
-| 10.A     |   27.10.2023      |   RW         |    120min             |                   
-|  11.A    |  03.11.2023     |   RW         | 60min              |                   
+| 2.A     | 22.09.2023     |  ST          |   65min            |                   
+|  3.A    | 22.09.2023   |   RW         |     50min          |                   
+|    4.A  | 22.09.2023 |   RW         |       45min        |                                     
+| 6.A     |  29.09.2023      |   RW         |    45min           |                                                                          
+| 10.A     |   27.10.2023      |   RW         |    125min             |                                     
 | 12.A     |  03.11.2023     |   ST        |   45min            |                   
-| 13.A     |  03.11.2023     |  RW          |  45min             |                   
-| 14.A     |  03.11.2023     |  RW          |  60min             |                   
+| 13.A     |  03.11.2023     |  RW          |  50min             |                   
+| 14.A     |  03.11.2023     |  RW          |  65min             |                   
 | 15.A     |  03.11.2023     |  ST          |     120min            |                   
 | 16.A     |    27.10.2023     |  ST          |      45min         |                   
-| 17.A     |   29.09.2023     |  ST          |        120min         |                   
+| 17.A     |   29.09.2023     |  ST          |        110min         |                   
 
 
 
@@ -139,27 +134,19 @@ Wir haben uns dazu entschieden, die Arbeitspakete aufzuteilen. Rebecca Willi mac
 | ---- | ----- | -------- | ------ |
 | 1.1  | 03.11.2023      | Loginformular wurde erstellt, man kann es benutzen         |  ST      |
 | 2.1     | 03.11.2023      |  Mithilfe von Button kommt man von Startseite auf Listenseite.        | ST       |
-| 3.1     | 03.11.2023      |          |  RW      |
-| 4.1     |03.11.2023       |          |  RW      |
-| 5.1     | 03.11.2023      |          |  RW      |
-| 5.2     | 03.11.2023      |          |  RW      |
-| 6.1     | 03.11.2023      |          | RW       |
-| 7.1     |  03.11.2023     |          |  RW      |
-| 8.1      | 03.11.2023      |          |  RW      |
-| 8.2      | 03.11.2023      |          |  RW      |
-| 9.1     |  03.11.2023     |          |   RW     |
-| 9.2     |  03.11.2023     |          |   RW     |
-| 10.1     | 03.11.2023      |          |  RW      |
-| 11.1     |  03.11.2023     |          |  RW      |
-| 12.1     |  03.11.2023     | Zugriff auf die Logindaten hat nur der Verwalter der Formulare, der Benutzer kann sie nicht ändern.         |  ST      |
-|  13.1    |  03.11.2023     |          |  RW      |
-|  14.1    |  03.11.2023     |          |   RW     |
-| 15.1     |  03.11.2023     |   Formular für Login kann man ausfüllen, es funktioniert, Daten werden gesendet, jedoch funktioniert Login nicht wirklich, man kann seine Listen  nicht perönlich speichern.        | ST       |
+| 3.1     | 03.11.2023      | Fenster für das Erstellen einer neuen Aufgabe wird geöffnet.|  RW      |
+| 4.1     |03.11.2023       | Daten zu der neuen Aufgabe können eingegeben werden.|  RW      |
+| 6.1     | 03.11.2023      | Häcken neben der Aufgabe erscheint. | RW       |
+| 10.1     | 03.11.2023      | Dadurch dass das BackEnd nicht funktioniert ist dies nicht möglich. |  RW      |
+| 12.1     |  03.11.2023     | Zugriff auf die Logindaten hat nur der Verwalter der Formulare, der Benutzer kann sie nicht ändern.|  ST      |
+|  13.1    |  03.11.2023     | Daten werden nicht gespeichert. Eingaben sind aber möglich. |  RW      |
+|  14.1    |  03.11.2023     | Eingabe ist möglich. Das Speichern jedoch nicht.|   RW     |
+| 15.1     |  03.11.2023     |   Formular für Login kann man ausfüllen, es funktioniert, Daten werden gesendet, jedoch funktioniert Login nicht wirklich, man kann seine Listen  nicht perönlich speichern.        | ST     |
 | 16.1     |  03.11.2023     |   Formular für die Registrierung funktioniert, Daten werden versendet bzw. man erhält Bestätigung, jedoch merkt sich die Webapplikation die Registrierung nicht.       | ST       |
 |  17.1    |   03.11.2023    |  Startseite funktioniert, man kann sich gut einlesen.        |  ST      |
 
 
-Die Webseite an sich funktioniert und erfüllt ihren Zweck. Man kann Aufgaben erstellen und diese einsehen, das ist das wichtigste. Es gibt beim Login/Registrierung Probleme mit dem BackEnd, d.h die Daten werden zwar gesendet, jedoch nicht verarbeitet. Deshalb kann man seine persönliche Liste nicht auf seinem Konto speichern, sonst erfüllt sie ihren Zweck. 
+Die Webseite an sich funktioniert und erfüllt ihren Zweck. Man kann Aufgaben erstellen und diese einsehen, das ist das wichtigste. Es gibt beim Login/Registrierung/Erstellen der Aufgabe Probleme mit dem BackEnd, d.h die Daten werden zwar gesendet, jedoch nicht verarbeitet. Deshalb kann man seine persönliche Liste nicht auf seinem Konto speichern, sonst erfüllt sie ihren Zweck.
 
 
 
