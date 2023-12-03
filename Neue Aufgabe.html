@@ -1,0 +1,55 @@
+<!doctype html> 
+<html>
+    <head>
+        <link rel="stylesheet" type="text/css" href="stylesheet.css">
+        
+    </head>
+    <body class="main">
+<header class="layoutHeader">
+    <h1>Neue Aufgabe</h1>
+</header>
+<div class="pictureListe">
+<img src="https://cdn-icons-png.flaticon.com/512/289/289915.png" alt="Your Logo" >
+</div>
+
+<!code von https://www.w3schools.com/howto/howto_js_todolist.asp>
+<input type="text" class="input" placeholder="Name der Aufgabe"> <br>
+
+<input type="date" class="input" placeholder="zu erledigen bis" class=> <br>
+
+<label for="Priorität" class="input">Prioritätslevel</label><br>
+<select name="Priorität" class="input"> <br>
+<option value="high">Hoch</option>
+<option value="medium">Mittel</option>
+<option value="low">Tief</option>
+</select> <br>
+
+<label for="Privat" class="inputPA">Privat</label> 
+<input type="checkbox" name="Privat" class="inputPA">
+
+<label for="Arbeit" class="inputPA">Arbeit</label> 
+<input type="checkbox" name="Arbeit" class="inputPA"><br>
+
+<label for="Wiederholung" class="input">Aufgabe Wiederholen?</label><br>
+<select name="Wiederholung" class="input">
+<option value="yes">ja</option>
+<option value="no">nein</option>
+</select><br>
+
+<input type="text" class="input" placeholder="Dauer in min">
+
+<li class="erstellenButton"> <a href="list.html"></a>
+    <button onclick="window.location.href='list.html'">
+      <span>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24"><path fill="none" d="M0 0h24v24H0z"></path><path fill="currentColor" d="M11 11V5h2v6h6v2h-6v6h-2v-6H5v-2z"></path></svg> Neue Aufgabe
+      </span>
+    </button>
+  </a></li>
+
+    </body>
+    <footer class="layoutFooter">
+      <p>© 2023 To-Do Liste
+        <br>Rebecca Willi, Salma Tanner
+        <br> All Rights reserved</p>
+    </footer>
+</html>
